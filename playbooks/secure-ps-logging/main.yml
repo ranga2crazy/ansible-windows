@@ -1,6 +1,5 @@
 ---
 - name: cleanup and restrict PowerShell logs
-  hosts: windows
   gather_facts: no
 
   tasks:
